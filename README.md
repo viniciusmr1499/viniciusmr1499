@@ -7,26 +7,15 @@
 ## Hi there 👋  
 ###  Welcome to my profile :octocat:
 
-My name is Marcos Vinícius and I'm Full stack developer. 
+My name is Marcos Vinícius and I am a systems developer with over 4 years of experience in the market. I hold a degree in Analysis and Systems Development and am currently pursuing post-graduation studies in Software Engineering, DevOps, and Cloud Computing.
 
-Software Developer at Fortbrasil with operations in Web and Mobile applications.
+With a wide range of technical skills, I work with various languages and tools, including JavaScript, TypeScript, PHP, Python, MongoDB, DynamoDB, Kafka, Docker, Redis, NestJS, Next JS, ReactJS, GraphQL, Fastify, Cache, AWS Lambda, SQS, SNS, S3, Stack ELK, MySQL, Postgres, and MariaDB. As a micro frontend architecture enthusiast, I use Webpack with module federation to deliver scalable and innovative solutions.
 
-Graduated in Analysis and Systems Development.
+My commitment to quality is evident in my code, as I follow the best practices and concepts of SOLID and Clean Code. In the backend, I work with microservices and implement code that respects well-known design patterns, such as ports and adapters, factory, and decorators. I use good security practices, such as authentication and authorization with Keycloak, ensuring that my solutions are always secure and reliable.
 
-Solid knowledge in planning and building web services. Applying NodeJS and PHP to the back end and JavaScript, HTML and CSS to the front end.
+I have experience in agile methodologies, including Kanban and Planning Poker. My qualifications in Software Engineering, DevOps, and Cloud Computing allow me to have a complete understanding of the software lifecycle, from conception to deployment and maintenance.
 
-Knowledge in PHP, Python, Node.js, ReactJS, React Native and TypeScript.
-
-I work well with Git, Git Flow, Docker and Linux for development and production applications.
-
-Able to adapt to new technologies, program languages ​​or structures / libraries. 
-
-- :office_worker: I am currently a Fullstack Developer, I am working with PHP, Python, NodeJS, ReactJS, React Native and Typescript.
-- 💻 I’m currently learning ReactJS, React Native, NodeJS and Typescript.
-- :books: Reading the Scrum Book how to do twice the work in half the time, to improve my skills in Agil.
-- 😄 I love JavasSript and TypeScript.
-- 🎓 Graduated in systems analysis and development
-- ⚡ Graduate student in software engineering, Devops and cloud computing.
+My goal is always to deliver cutting-edge technological solutions that exceed my clients' and users' expectations. I am always looking for new challenges and opportunities to grow and develop my skills.
 
 ![viniciusmr1499 github stats](https://github-readme-stats.vercel.app/api?username=viniciusmr1499&theme=dracula&show_icons=true)
 
